@@ -7,7 +7,7 @@ using System.Linq;
 
 
 
-namespace FileTranferApplication
+namespace FileTransferApp
 {
     public class program
     {
