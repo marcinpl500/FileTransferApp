@@ -1,0 +1,1 @@
+I created this for learning and recreational purposes only, currently not fit for commercial purposes. If you're interested in using this in commercial way, contact me at marcin.gardy@hotmail.com
