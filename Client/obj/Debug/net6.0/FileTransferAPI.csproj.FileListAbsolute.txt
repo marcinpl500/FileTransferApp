@@ -1,0 +1,15 @@
+I:\Projects\FileTransferAPI\bin\Debug\net6.0\FileTransferAPI.exe
+I:\Projects\FileTransferAPI\bin\Debug\net6.0\FileTransferAPI.deps.json
+I:\Projects\FileTransferAPI\bin\Debug\net6.0\FileTransferAPI.runtimeconfig.json
+I:\Projects\FileTransferAPI\bin\Debug\net6.0\FileTransferAPI.dll
+I:\Projects\FileTransferAPI\bin\Debug\net6.0\FileTransferAPI.pdb
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.csproj.AssemblyReference.cache
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.AssemblyInfoInputs.cache
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.AssemblyInfo.cs
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.csproj.CoreCompileInputs.cache
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.dll
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\refint\FileTransferAPI.dll
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.pdb
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\FileTransferAPI.genruntimeconfig.cache
+I:\Projects\FileTransferAPI\obj\Debug\net6.0\ref\FileTransferAPI.dll
